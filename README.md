@@ -7,7 +7,6 @@ This project focuses on performing sentiment analysis on tweets crawled from Twi
 - 📊 Data Analysis: Explore and visualize various aspects of the dataset, including distribution of sentiments, word frequency, and more.
 - 📈 KMeans Clustering: Implement clustering on the dataset.
     
-
 ## Installation:
 
 1. Clone the repository:
