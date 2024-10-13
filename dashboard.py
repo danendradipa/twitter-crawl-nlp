@@ -76,10 +76,6 @@ def main():
         st.write("### Most Frequent Words")
         plot_top_words(data)
 
-        # Display dataset with sentiment labels
-        st.write("### Dataset with Sentiment Labels")
-        st.dataframe(data[['full_text', 'sentiment']])
-
     elif choice == "KMeans Clustering":
         st.subheader("KMeans Clustering Analysis")
 
