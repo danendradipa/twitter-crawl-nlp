@@ -5,7 +5,7 @@ This project focuses on performing sentiment analysis on tweets crawled from Twi
 ## Key Features:
 - 🔍 Sentiment Prediction: Users can input text to predict sentiment as positive, negative, or neutral using a trained Logistic Regression model.
 - 📊 Data Analysis: Explore and visualize various aspects of the dataset, including distribution of sentiments, word frequency, and more.
-- 📈 KMeans Clustering: Implement clustering on the dataset to identify patterns and group similar sentiments together.
+- 📈 KMeans Clustering: Implement clustering on the dataset.
     
 
 ## Installation:
